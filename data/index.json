@@ -1,10 +1,23 @@
 {
-  "version": "2.0.0",
+  "version": "1.0.0",
   "updated_at": "2026-10-23T00:00:00Z",
-  "repositories": {
-    "herbs": {"name": "tcm-database", "url": "https://github.com/renhanxu/tcm-database", "count": 10},
-    "formulas": {"name": "tcm-formulas", "url": "https://github.com/renhanxu/tcm-formulas", "count": 5},
-    "books": {"name": "tcm-books", "url": "https://github.com/renhanxu/tcm-books", "count": 5},
-    "images": {"name": "tcm-images", "url": "https://github.com/renhanxu/tcm-images", "count": 7}
+  "categories": {
+    "herbs": {
+      "count": 5,
+      "images": [
+        {"id": "1", "name": "黄芪", "file": "huangqi.svg"},
+        {"id": "2", "name": "人参", "file": "renshen.svg"},
+        {"id": "3", "name": "红枣", "file": "hongzao.svg"},
+        {"id": "4", "name": "甘草", "file": "gancao.svg"},
+        {"id": "5", "name": "当归", "file": "danggui.svg"}
+      ]
+    },
+    "formulas": {
+      "count": 2,
+      "images": [
+        {"id": "1", "name": "四君子汤", "file": "sijunzitang.svg"},
+        {"id": "2", "name": "补中益气汤", "file": "buzhongyiqitang.svg"}
+      ]
+    }
   }
 }
