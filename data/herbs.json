@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "count": 10,
+  "data": [
+    {"id": "1", "name": "黄芪", "pinyin": "huang_qi", "effects": ["补气固表"]},
+    {"id": "2", "name": "人参", "pinyin": "ren_shen", "effects": ["大补元气"]},
+    {"id": "3", "name": "红枣", "pinyin": "hong_zao", "effects": ["补中益气"]},
+    {"id": "4", "name": "灵芝", "pinyin": "ling_zhi", "effects": ["补气安神"]},
+    {"id": "5", "name": "冬虫夏草", "pinyin": "dong_chong_xia_cao", "effects": ["补肺肾"]},
+    {"id": "6", "name": "甘草", "pinyin": "gan_cao", "effects": ["补脾益气"]},
+    {"id": "7", "name": "当归", "pinyin": "dang_gui", "effects": ["补血活血"]},
+    {"id": "8", "name": "生地黄", "pinyin": "sheng_di_huang", "effects": ["清热凉血"]},
+    {"id": "9", "name": "天麻", "pinyin": "tian_ma", "effects": ["平肝潜阳"]},
+    {"id": "10", "name": "冰片", "pinyin": "bing_pian", "effects": ["开窍醒神"]}
+  ]
+}
